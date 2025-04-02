@@ -86,4 +86,8 @@ Here are three potential next steps our company can implement to further assist 
 
 2) Instead of having our marketing team manually pull down tweets for analysis one by one, I could set up an API that automatically pulls down tweets and classifies their sentiment, further decreasing the amount of manual work our marketing team has to do.
 
-3) Perform unsupervised clustering on "Positive" predictions to create feedback segmentation that can be used to group together common areas of discussion about different aspects of these products. These tweet clusters can then be presented to the marketing team for targeted analysis of current product features. 
+3) Perform unsupervised clustering on "Positive" predictions to create feedback segmentation that can be used to group together common areas of discussion about different aspects of these products. These tweet clusters can then be presented to the marketing team for targeted analysis of current product features.
+
+
+Powerpoint presentation
+![Powerpoint_presentation](/final_model.png)
