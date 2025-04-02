@@ -89,5 +89,22 @@ Here are three potential next steps our company can implement to further assist 
 3) Perform unsupervised clustering on "Positive" predictions to create feedback segmentation that can be used to group together common areas of discussion about different aspects of these products. These tweet clusters can then be presented to the marketing team for targeted analysis of current product features.
 
 
-Powerpoint presentation
-![Powerpoint_presentation](/final_model.png)
+## Repository Links
+
+PowerPoint presentation
+![Powerpoint_presentation](https://github.com/AndrewReusche/NLP_Sentiment_Analysis/blob/main/NLP_powerpoint.pdf)
+
+Notebook PDF
+![Notebook_PDF](https://github.com/AndrewReusche/NLP_Sentiment_Analysis/blob/main/NLP_Notebook_PDF.pdf)
+
+Project Notebook
+![Project_Notebook](https://github.com/AndrewReusche/NLP_Sentiment_Analysis/blob/main/NLP_Tweet_Analysis.ipynb)
+
+
+## Repository Layout
+1) Pictures
+2) GitIgnore File
+3) Notebook PDF
+4) Project Notebook
+5) Project PowerPoint Presentation
+6) README file
